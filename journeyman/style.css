@@ -85,14 +85,17 @@ p {
 
 section {
 	padding: 20px 0 0;
+	border-bottom: 1px solid #dedede;
 }
 
 section:first-child {
-	border-top: 0;
+	border-top: 2px solid #cf8a05;
+
 }
 
 section:last-child {
 	padding: 20px 0 10px;
+	border-bottom: 0;
 }
 
 .sectionTitle {
@@ -108,6 +111,8 @@ section:last-child {
 .sectionTitle h1 {
 	font-style: italic;
 	font-size: 1.5em;
+	color: #cf8a05;
+	font-family: Rokkitt, Arial, Helvetica, sans-serif;
 }
 
 .sectionContent h2 {

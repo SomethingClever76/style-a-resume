@@ -1,0 +1,41 @@
+body {
+    background-color: #f1e9d2;
+    color: #9b533f;
+    font-family: Helvetica;
+    font-size: 12pt;
+}
+#headshot, #name, #contactDetails {
+   display: inline-block;
+}
+
+#contactDetails {
+    float: right;
+    padding-top: 25px;
+    
+}
+
+#contactDetails ul {
+    list-style: none;
+}
+
+#name {
+    text-align: center;
+}
+
+#sectionTitle {
+    font-style: normal;
+    font-size: 18px;
+}
+ p {
+    font-style: italic;
+}
+
+#mainArea h1 {
+   border: 1px solid black;
+   font-size: 16pt;
+   text-align: center;
+}
+
+#mainArea h2 {
+    font-size: 14pt;
+}
