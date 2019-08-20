@@ -10,7 +10,7 @@ html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pr
 html, body {
 	font-family: Lato, Helvetica, Arial, sans-serif;
 	font-size: 16px;
-	color: #181818;
+	color: #444444;
 	background-color: #f3f3f3;
 }
 
@@ -39,12 +39,14 @@ p {
 	font-size: 2.5em;
 	font-weight: 700;
 	margin-bottom: -6px;
+	color: #181818;
 }
 
 #name h2 {
 	font-family: Rokkitt, Helvetica, Arial, sans-serif;
 	font-size: 2em;
 	margin-left: 2px;
+	color: #181818;
 }
 
 #mainArea {
@@ -83,6 +85,7 @@ p {
 
 #contactDetails ul li a, a[href^=tel] {
 	text-decoration: none;
+	color: #444444;
 }
 
 #contactDetails ul li a:hover {
@@ -124,6 +127,7 @@ section:last-child {
 	font-family: Rokkitt, Helvetica, Arial, sans-serif;
 	font-size: 1.5em;
 	margin-bottom: -2px;
+	color: #181818;
 }
 
 .subDetails {
